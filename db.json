@@ -1,0 +1,20 @@
+{
+    "users":[
+        {
+           "id":1,
+           "username":"admin",
+           "email":"admin@example.com",
+           "password":"123456" 
+        }
+    ],
+    "tasks":[
+         {
+      "id": 1,
+      "title": "Create React frontend",
+      "status": "pending",
+      "userId": 1
+    }
+    ]
+    
+}
+
